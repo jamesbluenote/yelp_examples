@@ -4,3 +4,4 @@
 *.json
 .tox
 *.egg-info
+.DS_Store
